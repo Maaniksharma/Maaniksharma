@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+-I'm passionate Software Developer.
+-I'm currently in an internship at codequotient.
+-
+
 <!--
 **Maaniksharma/Maaniksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
