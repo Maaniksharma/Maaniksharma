@@ -2,7 +2,6 @@
 
 -I'm passionate Software Developer.
 
--I'm currently in an internship at codequotient.
 -
 
 <!--
