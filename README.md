@@ -2,7 +2,7 @@
 
 -I'm passionate Software Developer.
 
--
+
 
 <!--
 **Maaniksharma/Maaniksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
